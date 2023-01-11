@@ -4,7 +4,7 @@ public class Passenger
     String name;
     int age;
     String berthPreference;// U or L or M
-    int passengerId;// id of passengers created automatically
+    int passengerId;// id of passenger created automatically
     String alloted;//alloted type (L,U,M,RAC,WL)
     int number;//seat numbers
     public Passenger(String name,int age,String berthPreference)

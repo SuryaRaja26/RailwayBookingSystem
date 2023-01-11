@@ -9,7 +9,7 @@ public class TicketBooker
     static int availableRacTickets = 1;//normally 18
     static int availableWaitingList = 1;//normally 10
 
-    static Queue<Integer> waitingList = new LinkedList<>();//queue of WL passengers
+    static Queue<Integer> waitingList = new LinkedList<>();//queue of WL passenger
     static Queue<Integer> racList =  new LinkedList<>();//queu of RAC passengers
     static List<Integer> bookedTicketList =  new ArrayList<>();//list of bookedticket passengers
 
