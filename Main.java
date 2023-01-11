@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Main
 {
-    //function for booking ticket
+    //function for booking tickets
     public static void bookTicket(Passenger p)
     {
         TicketBooker booker = new TicketBooker();
